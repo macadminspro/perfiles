@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.apple.systemsound</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>com.apple.sound.beep.sound</key>
+								<string>/System/Library/Sounds/Pop.aiff</string>
+								<key>com.apple.sound.uiaudio.enabled</key>
+								<integer>1</integer>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.github.percysalgado.perfil.audioconfig</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>69070bfd-c304-410d-8e42-7a98030bdaa6</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+com.apple.systemsound
+</string>
+	<key>PayloadDescription</key>
+	<string>Configuración del botón de audio</string>
+	<key>PayloadDisplayName</key>
+	<string>Sonido configuración</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.percysalgado.perfil.audioconfig</string>
+	<key>PayloadOrganization</key>
+	<string>Github.com/percysalgado</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>bf6e8a9d-8b36-4e22-be13-5e28e1cba4ee</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

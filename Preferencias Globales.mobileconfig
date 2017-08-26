@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>PayloadDisplayName</key>
+	<string>Preferencias Globales</string>
+
+	<key>PayloadIdentifier</key>
+	<string>com.github.percysalgado.perfil.preferenciasglobales</string>
+	
+	<key>PayloadUUID</key>
+	<string>54A1935F-5DDB-4FDD-A9FF-B7F33FE67D16</string>
+	
+	<key>PayloadScope</key>
+	<string>System</string>
+	
+	<key>PayloadDescription</key>
+	<string>Establece centímetros para impresiones, cancela el cambio rápido de usuario, preferencias de ubicación y lengua española de Perú</string>
+	<key>PayloadOrganization</key>
+	<string>Github.com/percysalgado</string>
+	
+	<key>PayloadRemovalDisallowed</key>
+	<true/>	
+	
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	
+	<key>PayloadType</key>
+	<string>Configuration</string>
+
+	<key>PayloadContent</key>
+	<array>
+		<dict>		
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.percysalgado.perfil.preferenciasglobales.gestionadas</string>
+			<key>PayloadUUID</key>
+			<string>2DB7C422-4DF3-46AF-8D8D-18C945AE3E3C</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadContent</key>
+			<dict>
+				<key>.GlobalPreferences</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+	                            <key>DSDontWriteNetworkStores</key>
+                                <true/>
+                                <key>NSDocumentSaveNewDocumentsToCloud</key>
+								<false/>
+								<key>AppleLanguages</key>
+								<array>
+									<string>es</string>
+								</array>
+								<key>AppleLocale</key>
+								<string>es_PE</string>
+								<key>AppleMeasurementUnits</key>
+								<string>Centimeters</string>
+								<key>AppleMetricUnits</key>
+								<false/>
+								<key>Country</key>
+								<string>PE</string>
+								<key>MultipleSessionEnabled</key>
+								<false/>
+								<key>NSNavPanelExpandedStateForSaveMode</key>
+								<true/>
+								<key>NSNavPanelExpandedStateForSaveMode2</key>
+								<true/>
+								<key>PMPrintingExpandedStateForPrint</key>
+								<true/>
+								<key>PMPrintingExpandedStateForPrint2</key>
+								<true/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.TimeMachine</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.percysalgado.perfil.preferenciasglobales.timemachine</string>
+			<key>PayloadUUID</key>
+			<string>A4DA0D26-C83D-4988-82A2-68D66F0FC1F9</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadEnabled</key>
+			<true/>			
+
+			<key>DoNotOfferNewDisksForBackup</key>
+			<true/>
+
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.LaunchServices</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.percysalgado.perfil.preferenciasglobales.launchservices</string>
+			<key>PayloadUUID</key>
+			<string>71AFB355-8D09-49CC-85EC-124B126AAAA5</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadEnabled</key>
+			<true/>						
+			
+			<key>LSQuarantine</key>
+			<false/>
+
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.desktopservices</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.percysalgado.perfil.preferenciasglobales.desktopservices</string>
+			<key>PayloadUUID</key>
+			<string>050AE37B-BB97-465C-A658-62B9452A5DDE</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadEnabled</key>
+			<true/>	
+
+			<key>DSDontWriteNetworkStores</key>
+			<true/>								             
+
+		</dict>
+		<dict>	
+			<key>PayloadType</key>
+			<string>com.apple.ActivityMonitor</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.percysalgado.perfil.preferenciasglobales.monitordeactividad</string>
+			<key>PayloadUUID</key>
+			<string>1C2AD52E-E057-4C12-859C-258055204178</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadEnabled</key>
+			<true/>	
+
+			<key>OpenMainWindow</key>
+			<true/>
+			<key>SortColumn</key>
+			<string>cpUUsage</string>     
+			<key>LoadRemoteManagementMenuExtra</key>
+			<false/>                                
+
+		</dict>
+		
+	</array>
+</dict>
+</plist>
