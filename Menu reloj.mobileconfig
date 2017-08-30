@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.apple.systemuiserver</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>__NSEnableTSMDocumentWindowLevel</key>
+								<true/>
+								<key>last-messagetrace-stamp</key>
+								<real>447371340.858881</real>
+								<key>menuExtras</key>
+								<array>
+									<string>/System/Library/CoreServices/Menu Extras/Volume.menu</string>
+									<string>/System/Library/CoreServices/Menu Extras/Clock.menu</string>
+								</array>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.github.percysalgado.perfil.menu</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>67bfe913-5a7c-45d2-9aea-0a301c9678d5</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+com.apple.systemuiserver
+</string>
+	<key>PayloadDescription</key>
+	<string>Muestra los menúes de reloj y audio</string>
+	<key>PayloadDisplayName</key>
+	<string>Menú de Audio y Reloj visible</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.percysalgado.perfil.menu</string>
+	<key>PayloadOrganization</key>
+	<string>Github.com/percysalgado</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>298d5364-47e7-4196-ad1c-12347530fcf3</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
