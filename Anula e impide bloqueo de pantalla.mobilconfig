@@ -40,7 +40,7 @@ com.apple.loginwindow
 	<key>PayloadDisplayName</key>
 	<string>Impide bloqueo de pantalla</string>
 	<key>PayloadDescription</key>
-	<string>Anula el botón de Bloqueo de pantalla en el menú manzanza e impide su bloqueo</string>
+	<string>Anula el botón de Bloqueo de pantalla en el menú manzana e impide su bloqueo</string>
 	<key>PayloadIdentifier</key>
 	<string>com.github.percysalgado.perfil.lockscreen</string>
 	<key>PayloadOrganization</key>
