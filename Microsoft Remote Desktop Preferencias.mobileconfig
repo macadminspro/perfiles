@@ -75,7 +75,7 @@
 	<key>PayloadDescription</key>
 	<string>Ajustes personalizados incluidos:
 - Deshabilita actualizaciones automáticas
-- Suprime consulta de participación de mejora de experiencia
+- Suprime participación de mejora de experiencia
 </string>
 	<key>PayloadDisplayName</key>
 	<string>Microsoft Remote Desktop</string>
