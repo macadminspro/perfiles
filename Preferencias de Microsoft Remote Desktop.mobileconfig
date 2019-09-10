@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.microsoft.rdc.osx.beta</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>BITApplicationDidEnterBackgroundTime</key>
+								<real>1561468120.581883</real>
+								<key>BITApplicationWasLaunched</key>
+								<true/>
+								<key>BITUpdateDateOfVersionInstallation</key>
+								<real>583160839.18104005</real>
+								<key>BITUpdateUsageTimeForVersionString</key>
+								<string>1590</string>
+								<key>BITUpdateUsageTimeOfCurrentVersion</key>
+								<real>14.986093997955322</real>
+								<key>ClientSettings.FirstRunExperienceLaunchedVersion</key>
+								<string>1590</string>
+								<key>Developer.removedHomeFolderRedirection</key>
+								<true/>
+								<key>HockeySDKAutomaticallySendCrashReports</key>
+								<false/>
+								<key>HockeySDKCrashReportActivated</key>
+								<true/>
+								<key>NSWindow Frame MainWindow</key>
+								<string>971 192 572 776 0 0 2560 1417 </string>
+								<key>NSWindow Frame SUUpdateAlert</key>
+								<string>970 789 620 392 0 0 2560 1417 </string>
+								<key>SUEnableAutomaticChecks</key>
+								<false/>
+								<key>SUHasLaunchedBefore</key>
+								<true/>
+								<key>SULastCheckTime</key>
+								<date>2019-06-25T13:08:06Z</date>
+								<key>SULastProfileSubmissionDate</key>
+								<date>2019-06-25T13:08:06Z</date>
+								<key>SUSendProfileInfo</key>
+								<false/>
+								<key>TelemetryDeviceId</key>
+								<data>
+								OLJJyj07Q8aV
+								T4iKjnH1nQ==
+								</data>
+								<key>TelemetryPreviousAppLaunchVersion</key>
+								<string>1590</string>
+								<key>TelemetryPreviousDailyEventsTimeKey</key>
+								<real>1561468037.0277929</real>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.76978cea-7d2c-424c-bfb3-f01cafc85bda.alacarte.customsettings.e7236689-04e5-448c-8e3b-505789ea2743</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>e7236689-04e5-448c-8e3b-505789ea2743</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Ajustes personalizados incluidos:
+- Deshabilita actualizaciones automáticas
+- Suprime consulta de participación de mejora de experiencia
+</string>
+	<key>PayloadDisplayName</key>
+	<string>Microsoft Remote Desktop</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.percysalgado.perfil.mstsc</string>
+	<key>PayloadOrganization</key>
+	<string>Github.com/percysalgado</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>76978cea-7d2c-424c-bfb3-f01cafc85bda</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
