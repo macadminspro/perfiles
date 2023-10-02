@@ -2438,7 +2438,7 @@
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>com.github.percysalgado.perfil.finder</string>
+			<string>com.macadmins.pro.perfil.finder</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
@@ -2456,9 +2456,9 @@ com.apple.finder
 	<key>PayloadDisplayName</key>
 	<string>Finder</string>
 	<key>PayloadIdentifier</key>
-	<string>com.github.percysalgado.perfil.finder</string>
+	<string>com.macadmins.pro.perfil.finder</string>
 	<key>PayloadOrganization</key>
-	<string>Github.com/percysalgado</string>
+	<string>Mac Admíns Regional Training Centre</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadScope</key>

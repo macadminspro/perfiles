@@ -24,7 +24,7 @@
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>com.github.percysalgado.perfil.lockscreen</string>
+			<string>com.macadmins.pro.perfil.lockscreen</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
@@ -42,9 +42,9 @@ com.apple.loginwindow
 	<key>PayloadDescription</key>
 	<string>Anula el botón de Bloqueo de pantalla en el menú manzana e impide su bloqueo</string>
 	<key>PayloadIdentifier</key>
-	<string>com.github.percysalgado.perfil.lockscreen</string>
+	<string>com.macadmins.pro.perfil.lockscreen</string>
 	<key>PayloadOrganization</key>
-	<string>Github.com/percysalgado</string>
+	<string>Mac Admíns Regional Training Centre</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadScope</key>

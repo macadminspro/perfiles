@@ -80,9 +80,9 @@
 	<key>PayloadDisplayName</key>
 	<string>Microsoft Remote Desktop</string>
 	<key>PayloadIdentifier</key>
-	<string>com.github.percysalgado.perfil.mstsc</string>
+	<string>com.macadmins.pro.perfil.mstsc</string>
 	<key>PayloadOrganization</key>
-	<string>Github.com/percysalgado</string>
+	<string>Mac Admíns Regional Training Centre</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadScope</key>

@@ -26,7 +26,7 @@
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>com.github.percysalgado.perfil.wordfirstrun</string>
+			<string>com.macadmins.pro.perfil.wordfirstrun</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
@@ -40,9 +40,9 @@
 	<key>PayloadDisplayName</key>
 	<string>Word carga rápida</string>
 	<key>PayloadIdentifier</key>
-	<string>com.github.percysalgado.perfil.wordfirstrun</string>
+	<string>com.macadmins.pro.perfil.wordfirstrun</string>
 	<key>PayloadOrganization</key>
-	<string>Github.com/percysalgado</string>
+	<string>Mac Admíns Regional Training Centre</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadScope</key>

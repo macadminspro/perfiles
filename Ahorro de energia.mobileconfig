@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>PayloadIdentifier</key>
-	<string>com.github.percysalgado.perfil.ahorroenergia</string>
+	<string>com.macadmins.pro.perfil.ahorroenergia</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadScope</key>
@@ -13,7 +13,7 @@
 	<key>PayloadUUID</key>
 	<string>48a39070-1e4c-0131-c321-000c2944c108</string>
 	<key>PayloadOrganization</key>
-	<string>Github.com/percysalgado</string>
+	<string>Mac Admíns Regional Training Centre</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 	<key>PayloadDisplayName</key>
@@ -35,7 +35,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>PayloadIdentifier</key>
-			<string>com.github.percysalgado.perfil.ahorroenergia</string>
+			<string>com.macadmins.pro.perfil.ahorroenergia</string>
 			<key>PayloadUUID</key>
 			<string>69f66310-1e4f-0131-c324-000c2944c108</string>
 			<key>PayloadEnabled</key>

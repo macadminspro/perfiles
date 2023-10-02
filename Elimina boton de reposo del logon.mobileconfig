@@ -24,7 +24,7 @@
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>com.github.percysalgado.perfil.sinbotonreposo</string>
+			<string>com.macadmins.pro.perfil.sinbotonreposo</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
@@ -38,9 +38,9 @@
 	<key>PayloadDisplayName</key>
 	<string>Logon sin botón reposo</string>
 	<key>PayloadIdentifier</key>
-	<string>com.github.percysalgado.perfil.sinbotonreposo</string>
+	<string>com.macadmins.pro.perfil.sinbotonreposo</string>
 	<key>PayloadOrganization</key>
-	<string>Github.com/percysalgado</string>
+	<string>Mac Admíns Regional Training Centre</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadScope</key>

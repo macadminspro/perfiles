@@ -28,9 +28,9 @@
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>com.github.percysalgado.perfil.javaupdateoff</string>
+			<string>com.macadmins.pro.perfil.javaupdateoff</string>
 			<key>PayloadOrganization</key>
-			<string>Github.com/percysalgado</string>
+			<string>Mac Admíns Regional Training Centre</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
@@ -46,9 +46,9 @@
 	<key>PayloadEnabled</key>
 	<true/>
 	<key>PayloadIdentifier</key>
-	<string>com.github.percysalgado.perfil.javaupdateoff</string>
+	<string>com.macadmins.pro.perfil.javaupdateoff</string>
 	<key>PayloadOrganization</key>
-	<string>Github.com/percysalgado</string>
+	<string>Mac Admíns Regional Training Centre</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadScope</key>

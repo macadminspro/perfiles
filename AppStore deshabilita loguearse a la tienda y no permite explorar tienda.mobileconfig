@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>PayloadIdentifier</key>
-	<string>com.github.percysalgado.perfil.appstore</string>
+	<string>com.macadmins.pro.perfil.appstore</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadScope</key>
@@ -15,7 +15,7 @@
 	<key>PayloadDescription</key>
 	<string>Deshabilita uso de la AppStore, sólo se puede realizar actualizaciones de software</string>
 	<key>PayloadOrganization</key>
-	<string>Github.com/percysalgado</string>
+	<string>Mac Admíns Regional Training Centre</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 	<key>PayloadDisplayName</key>
@@ -28,7 +28,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>PayloadIdentifier</key>
-			<string>ccom.github.percysalgado.perfil.appstore</string>
+			<string>ccom.macadmins.pro.perfil.appstore</string>
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadUUID</key>

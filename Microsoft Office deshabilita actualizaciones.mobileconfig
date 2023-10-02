@@ -26,7 +26,7 @@
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>com.github.percysalgado.perfil.officenoupdates</string>
+			<string>com.macadmins.pro.perfil.officenoupdates</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
@@ -45,9 +45,9 @@ Git revision: 1d30395cd4</string>
 	<key>PayloadDisplayName</key>
 	<string>Microsoft No Actualiza</string>
 	<key>PayloadIdentifier</key>
-	<string>com.github.percysalgado.perfil.officenoupdates</string>
+	<string>com.macadmins.pro.perfil.officenoupdates</string>
 	<key>PayloadOrganization</key>
-	<string>Github.com/percysalgado</string>
+	<string>Mac Admíns Regional Training Centre</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadScope</key>

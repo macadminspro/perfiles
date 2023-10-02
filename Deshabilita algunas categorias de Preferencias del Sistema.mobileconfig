@@ -7,9 +7,9 @@
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadOrganization</key>
-		<string>Github.com/percysalgado</string>
+		<string>Mac Admíns Regional Training Centre</string>
 		<key>PayloadIdentifier</key>
-		<string>com.github.percysalgado.perfil.preferenciasdelsistema</string>
+		<string>com.macadmins.pro.perfil.preferenciasdelsistema</string>
 		<key>PayloadDisplayName</key>
 		<string>Preferencias del Sistema Paneles</string>
 		<key>PayloadDescription</key>
@@ -30,9 +30,9 @@
 				<key>PayloadType</key>
 				<string>com.apple.systempreferences</string>
 				<key>PayloadOrganization</key>
-				<string>Github.com/percysalgado</string>
+				<string>Mac Admíns Regional Training Centre</string>
 				<key>PayloadIdentifier</key>
-				<string>com.github.percysalgado.perfil.preferenciasdelsistema</string>
+				<string>com.macadmins.pro.perfil.preferenciasdelsistema</string>
 				<key>PayloadDisplayName</key>
 				<string>Deshabilita algunas categorías de Preferencia del Sistema</string>
 				<key>PayloadDescription</key>

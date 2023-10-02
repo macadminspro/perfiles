@@ -10,7 +10,7 @@
             <key>PayloadEnabled</key>
             <true/>
             <key>PayloadIdentifier</key>
-            <string>com.github.percysalgado.perfil.fondodepantalla</string>
+            <string>com.macadmins.pro.perfil.fondodepantalla</string>
             <key>PayloadType</key>
             <string>com.apple.desktop</string>
             <key>PayloadUUID</key>
@@ -28,9 +28,9 @@
     <key>PayloadDisplayName</key>
     <string>Fondo de pantalla</string>
     <key>PayloadIdentifier</key>
-    <string>com.github.percysalgado.perfil.fondodepantalla</string>
+    <string>com.macadmins.pro.perfil.fondodepantalla</string>
     <key>PayloadOrganization</key>
-    <string>Github.com/percysalgado</string>
+    <string>Mac Admíns Regional Training Centre</string>
     <key>PayloadRemovalDisallowed</key>
     <false/>
     <key>PayloadScope</key>

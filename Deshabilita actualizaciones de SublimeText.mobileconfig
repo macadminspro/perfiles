@@ -24,7 +24,7 @@
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>com.github.percysalgado.perfil.sublimeupdateoff</string>
+			<string>com.macadmins.pro.perfil.sublimeupdateoff</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
@@ -43,9 +43,9 @@ Git revision: 1d30395cd4</string>
 	<key>PayloadDisplayName</key>
 	<string>Sublime Text No actualiza</string>
 	<key>PayloadIdentifier</key>
-	<string>com.github.percysalgado.perfil.sublimeupdateoff</string>
+	<string>com.macadmins.pro.perfil.sublimeupdateoff</string>
 	<key>PayloadOrganization</key>
-	<string>Github.com/percysalgado</string>
+	<string>Mac Admíns Regional Training Centre</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadScope</key>

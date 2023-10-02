@@ -30,7 +30,7 @@
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>com.github.percysalgado.perfil.safaripref</string>
+			<string>com.macadmins.pro.perfil.safaripref</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
@@ -47,9 +47,9 @@
 	<key>PayloadDisplayName</key>
 	<string>Preferencias de Safari</string>
 	<key>PayloadIdentifier</key>
-	<string>com.github.percysalgado.perfil.safaripref</string>
+	<string>com.macadmins.pro.perfil.safaripref</string>
 	<key>PayloadOrganization</key>
-	<string>Github.com/percysalgado</string>
+	<string>Mac Admíns Regional Training Centre</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadScope</key>

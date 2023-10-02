@@ -66,7 +66,7 @@
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>com.github.percysalgado.perfil.safariplugins</string>
+			<string>com.macadmins.pro.perfil.safariplugins</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
@@ -80,9 +80,9 @@
 	<key>PayloadDisplayName</key>
 	<string>Safari con plugins habilitados</string>
 	<key>PayloadIdentifier</key>
-	<string>com.github.percysalgado.perfil.safariplugins</string>
+	<string>com.macadmins.pro.perfil.safariplugins</string>
 	<key>PayloadOrganization</key>
-	<string>Github.com/percysalgado</string>
+	<string>Mac Admíns Regional Training Centre</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadScope</key>

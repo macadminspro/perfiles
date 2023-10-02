@@ -26,7 +26,7 @@
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>com.github.percysalgado.perfil.sirimenuoff</string>
+			<string>com.macadmins.pro.perfil.sirimenuoff</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
@@ -40,9 +40,9 @@
 	<key>PayloadDisplayName</key>
 	<string>Barra de menú sin Siri</string>
 	<key>PayloadIdentifier</key>
-	<string>com.github.percysalgado.perfil.sirimenuoff</string>
+	<string>com.macadmins.pro.perfil.sirimenuoff</string>
 	<key>PayloadOrganization</key>
-	<string>Github.com/percysalgado</string>
+	<string>Mac Admíns Regional Training Centre</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadScope</key>

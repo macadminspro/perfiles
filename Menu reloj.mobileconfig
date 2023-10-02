@@ -31,7 +31,7 @@
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>com.github.percysalgado.perfil.menu</string>
+			<string>com.macadmins.pro.perfil.menu</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
@@ -49,9 +49,9 @@ com.apple.systemuiserver
 	<key>PayloadDisplayName</key>
 	<string>Menú de Audio y Reloj visible</string>
 	<key>PayloadIdentifier</key>
-	<string>com.github.percysalgado.perfil.menu</string>
+	<string>com.macadmins.pro.perfil.menu</string>
 	<key>PayloadOrganization</key>
-	<string>Github.com/percysalgado</string>
+	<string>Mac Admíns Regional Training Centre</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadScope</key>

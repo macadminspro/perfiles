@@ -10,7 +10,7 @@
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>com.github.percysalgado.perfil.dock</string>
+			<string>com.macadmins.pro.perfil.dock</string>
 			<key>PayloadType</key>
 			<string>com.apple.dock</string>
 			<key>PayloadUUID</key>
@@ -421,9 +421,9 @@
 	<key>PayloadDisplayName</key>
 	<string>Configuración del Dock</string>
 	<key>PayloadIdentifier</key>
-	<string>com.github.percysalgado.perfil.dock</string>
+	<string>com.macadmins.pro.perfil.dock</string>
 	<key>PayloadOrganization</key>
-	<string>Github.com/percysalgado</string>
+	<string>Mac Admíns Regional Training Centre</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadScope</key>
